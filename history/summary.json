@@ -58,18 +58,20 @@
     "url": "https://api.kodo.com/identity/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.kodo.com.ico",
     "slug": "p2-p-identity-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 835,
-    "timeDay": 662,
-    "timeWeek": 835,
-    "timeMonth": 835,
-    "timeYear": 835,
-    "dailyMinutesDown": {}
+    "time": 842,
+    "timeDay": 784,
+    "timeWeek": 842,
+    "timeMonth": 842,
+    "timeYear": 842,
+    "dailyMinutesDown": {
+      "2025-03-02": 0
+    }
   },
   {
     "name": "P2P form API",
