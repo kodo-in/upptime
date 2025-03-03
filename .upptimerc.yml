@@ -8,15 +8,16 @@ sites:
     url: https://api.kodo.in/health
     expectedStatusCodes:
       - 200
-      - 201
+      - 301
       - 404
+      - 302
   - name: P2P UI
     url: https://app.kodo.com
   - name: P2P Identity API
     url: https://api.kodo.com/identity/health
   - name: P2P form API
     url: https://api.kodo.com/form/health
-
+ 
 status-website:
   cname: upptime.kodo.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
