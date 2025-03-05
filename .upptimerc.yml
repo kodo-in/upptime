@@ -26,3 +26,5 @@ status-website:
   navbar:
     - title: Status
       href: /
+i18n:
+  footer: " "
