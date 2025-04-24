@@ -58,18 +58,19 @@
     "url": "https://api.kodo.com/identity/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.kodo.com.ico",
     "slug": "p2-p-identity-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1026,
-    "timeDay": 675,
-    "timeWeek": 795,
-    "timeMonth": 768,
-    "timeYear": 1026,
+    "time": 1025,
+    "timeDay": 794,
+    "timeWeek": 810,
+    "timeMonth": 773,
+    "timeYear": 1025,
     "dailyMinutesDown": {
+      "2025-04-24": 0,
       "2025-03-02": 16
     }
   },
@@ -78,17 +79,19 @@
     "url": "https://api.kodo.com/form/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.kodo.com.ico",
     "slug": "p2-p-form-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 226,
-    "timeWeek": 247,
-    "timeMonth": 235,
+    "timeDay": 253,
+    "timeWeek": 251,
+    "timeMonth": 236,
     "timeYear": 238,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-24": 0
+    }
   }
 ]
