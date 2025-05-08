@@ -22,18 +22,20 @@
     "url": "https://api.kodo.in/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.kodo.in.ico",
     "slug": "payouts-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1284,
-    "timeDay": 1118,
-    "timeWeek": 1184,
-    "timeMonth": 1324,
-    "timeYear": 1284,
-    "dailyMinutesDown": {}
+    "time": 1276,
+    "timeDay": 904,
+    "timeWeek": 1122,
+    "timeMonth": 1303,
+    "timeYear": 1276,
+    "dailyMinutesDown": {
+      "2025-05-08": 0
+    }
   },
   {
     "name": "P2P UI",
