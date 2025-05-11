@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 769,
-    "timeDay": 697,
-    "timeWeek": 833,
-    "timeMonth": 794,
-    "timeYear": 769,
+    "time": 768,
+    "timeDay": 674,
+    "timeWeek": 817,
+    "timeMonth": 786,
+    "timeYear": 768,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
-    "time": 1280,
-    "timeDay": 1099,
-    "timeWeek": 1225,
-    "timeMonth": 1322,
-    "timeYear": 1280,
+    "time": 1277,
+    "timeDay": 1037,
+    "timeWeek": 1212,
+    "timeMonth": 1315,
+    "timeYear": 1277,
     "dailyMinutesDown": {
       "2025-05-08": 38
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 781,
-    "timeDay": 754,
-    "timeWeek": 810,
-    "timeMonth": 787,
+    "timeDay": 739,
+    "timeWeek": 800,
+    "timeMonth": 783,
     "timeYear": 781,
     "dailyMinutesDown": {}
   },
@@ -61,16 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.kodo.com.ico",
     "slug": "p2-p-identity-api",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 977,
-    "timeDay": 666,
-    "timeWeek": 777,
-    "timeMonth": 793,
-    "timeYear": 977,
+    "uptimeYear": "99.99%",
+    "time": 974,
+    "timeDay": 715,
+    "timeWeek": 774,
+    "timeMonth": 787,
+    "timeYear": 974,
     "dailyMinutesDown": {
       "2025-03-02": 16
     }
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 213,
-    "timeWeek": 241,
-    "timeMonth": 243,
+    "timeDay": 208,
+    "timeWeek": 237,
+    "timeMonth": 240,
     "timeYear": 239,
     "dailyMinutesDown": {}
   }
