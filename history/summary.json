@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 765,
-    "timeDay": 676,
-    "timeWeek": 723,
-    "timeMonth": 782,
-    "timeYear": 765,
+    "time": 764,
+    "timeDay": 694,
+    "timeWeek": 688,
+    "timeMonth": 770,
+    "timeYear": 764,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.kodo.in.ico",
     "slug": "payouts-api",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.96%",
-    "time": 1271,
-    "timeDay": 1029,
-    "timeWeek": 1173,
-    "timeMonth": 1310,
-    "timeYear": 1271,
+    "uptimeYear": "99.97%",
+    "time": 1270,
+    "timeDay": 1184,
+    "timeWeek": 1159,
+    "timeMonth": 1312,
+    "timeYear": 1270,
     "dailyMinutesDown": {
       "2025-05-08": 38
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 779,
-    "timeDay": 712,
-    "timeWeek": 769,
-    "timeMonth": 783,
-    "timeYear": 779,
+    "time": 778,
+    "timeDay": 669,
+    "timeWeek": 731,
+    "timeMonth": 781,
+    "timeYear": 778,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 967,
-    "timeDay": 697,
-    "timeWeek": 728,
-    "timeMonth": 782,
-    "timeYear": 967,
+    "time": 965,
+    "timeDay": 722,
+    "timeWeek": 702,
+    "timeMonth": 780,
+    "timeYear": 965,
     "dailyMinutesDown": {
       "2025-03-02": 16
     }
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 202,
-    "timeWeek": 220,
-    "timeMonth": 239,
+    "timeDay": 212,
+    "timeWeek": 209,
+    "timeMonth": 238,
     "timeYear": 238,
     "dailyMinutesDown": {}
   }
