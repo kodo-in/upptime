@@ -22,18 +22,19 @@
     "url": "https://api.kodo.in/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.kodo.in.ico",
     "slug": "payouts-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1244,
-    "timeDay": 1347,
-    "timeWeek": 1240,
-    "timeMonth": 1219,
-    "timeYear": 1244,
+    "time": 1247,
+    "timeDay": 1519,
+    "timeWeek": 1286,
+    "timeMonth": 1233,
+    "timeYear": 1247,
     "dailyMinutesDown": {
+      "2025-07-07": 0,
       "2025-07-01": 15,
       "2025-05-08": 38
     }
@@ -63,9 +64,9 @@
     "slug": "p2-p-identity-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 902,
     "timeDay": 739,
@@ -73,7 +74,6 @@
     "timeMonth": 834,
     "timeYear": 902,
     "dailyMinutesDown": {
-      "2025-07-07": 12,
       "2025-03-02": 16
     }
   },
