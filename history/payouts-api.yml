@@ -1,7 +1,7 @@
 url: https://api.kodo.in/health
-status: down
-code: 502
-responseTime: 1691
-lastUpdated: 2025-07-07T10:57:12.603Z
+status: up
+code: 200
+responseTime: 1861
+lastUpdated: 2025-07-07T11:07:41.778Z
 startTime: 2025-02-27T05:48:15.444Z
 generator: Upptime <https://github.com/upptime/upptime>
