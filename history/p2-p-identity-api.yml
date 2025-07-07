@@ -1,7 +1,7 @@
 url: https://api.kodo.com/identity/health
-status: down
-code: 503
-responseTime: 699
-lastUpdated: 2025-07-07T06:45:41.358Z
+status: up
+code: 200
+responseTime: 632
+lastUpdated: 2025-07-07T06:57:17.710Z
 startTime: 2025-02-27T05:48:19.023Z
 generator: Upptime <https://github.com/upptime/upptime>
