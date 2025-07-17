@@ -81,17 +81,19 @@
     "url": "https://api.kodo.com/form/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.kodo.com.ico",
     "slug": "p2-p-form-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 243,
-    "timeDay": 237,
-    "timeWeek": 287,
-    "timeMonth": 267,
+    "timeDay": 226,
+    "timeWeek": 278,
+    "timeMonth": 265,
     "timeYear": 243,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-17": 0
+    }
   }
 ]
