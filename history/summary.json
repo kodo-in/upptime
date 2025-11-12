@@ -4,9 +4,9 @@
     "url": "https://app.kodo.in",
     "icon": "https://icons.duckduckgo.com/ip3/app.kodo.in.ico",
     "slug": "payouts-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 818,
     "timeMonth": 897,
     "timeYear": 835,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-12": 0
+    }
   },
   {
     "name": "Payouts API",
