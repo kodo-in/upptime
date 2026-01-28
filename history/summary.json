@@ -4,19 +4,19 @@
     "url": "https://app.kodo.in",
     "icon": "https://icons.duckduckgo.com/ip3/app.kodo.in.ico",
     "slug": "payouts-ui",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 857,
-    "timeDay": 1035,
-    "timeWeek": 1149,
-    "timeMonth": 1102,
+    "timeDay": 1044,
+    "timeWeek": 1137,
+    "timeMonth": 1101,
     "timeYear": 857,
     "dailyMinutesDown": {
-      "2026-01-28": 0
+      "2026-01-28": 16
     }
   },
   {
