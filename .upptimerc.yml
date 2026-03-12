@@ -1,6 +1,12 @@
 owner: kodo-in # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+skipDeleteIssues: true # Keep issues after recovery (cleaned up monthly to last 6 months)
+
+notifications:
+  - type: slack
+    channel: "#alerts-prod"
+
 sites:
   - name: Payouts UI
     url: https://app.kodo.in

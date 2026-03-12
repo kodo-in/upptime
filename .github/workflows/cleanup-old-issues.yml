@@ -1,0 +1,40 @@
+name: Cleanup Old Issues
+on:
+  schedule:
+    - cron: "0 2 1 * *" # 1st of every month at 2am UTC
+  workflow_dispatch:
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Close issues older than 6 months
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GH_PAT || github.token }}
+          script: |
+            const sixMonthsAgo = new Date();
+            sixMonthsAgo.setMonth(sixMonthsAgo.getMonth() - 6);
+
+            const issues = await github.paginate(github.rest.issues.listForRepo, {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'status',
+              per_page: 100
+            });
+
+            let closed = 0;
+            for (const issue of issues) {
+              if (new Date(issue.created_at) < sixMonthsAgo) {
+                await github.rest.issues.update({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: issue.number,
+                  state: 'closed'
+                });
+                console.log(`Closed issue #${issue.number}: ${issue.title}`);
+                closed++;
+              }
+            }
+            console.log(`Done. Closed ${closed} issue(s) older than 6 months.`);
