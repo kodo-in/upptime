@@ -8,13 +8,13 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 877,
-    "timeDay": 1082,
-    "timeWeek": 1041,
-    "timeMonth": 1087,
-    "timeYear": 877,
+    "time": 878,
+    "timeDay": 1129,
+    "timeWeek": 1129,
+    "timeMonth": 1069,
+    "timeYear": 885,
     "dailyMinutesDown": {
       "2026-01-28": 16
     }
@@ -27,14 +27,14 @@
     "status": "up",
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.49%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.88%",
-    "time": 1470,
-    "timeDay": 1439,
-    "timeWeek": 3747,
-    "timeMonth": 2057,
-    "timeYear": 1465,
+    "time": 1471,
+    "timeDay": 1731,
+    "timeWeek": 1731,
+    "timeMonth": 2663,
+    "timeYear": 1474,
     "dailyMinutesDown": {
       "2026-02-25": 24,
       "2026-02-24": 24,
@@ -62,10 +62,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 854,
-    "timeDay": 753,
-    "timeWeek": 865,
-    "timeMonth": 882,
-    "timeYear": 853,
+    "timeDay": 889,
+    "timeWeek": 889,
+    "timeMonth": 891,
+    "timeYear": 857,
     "dailyMinutesDown": {}
   },
   {
@@ -80,13 +80,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 904,
-    "timeDay": 793,
-    "timeWeek": 900,
-    "timeMonth": 902,
-    "timeYear": 904,
-    "dailyMinutesDown": {
-      "2025-03-02": 16
-    }
+    "timeDay": 983,
+    "timeWeek": 983,
+    "timeMonth": 908,
+    "timeYear": 867,
+    "dailyMinutesDown": {}
   },
   {
     "name": "P2P form API",
@@ -100,10 +98,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 347,
-    "timeDay": 750,
-    "timeWeek": 633,
-    "timeMonth": 571,
-    "timeYear": 348,
+    "timeDay": 271,
+    "timeWeek": 271,
+    "timeMonth": 583,
+    "timeYear": 353,
     "dailyMinutesDown": {}
   }
 ]
