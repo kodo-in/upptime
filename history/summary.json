@@ -4,10 +4,10 @@
     "url": "https://app.kodo.in",
     "icon": "https://icons.duckduckgo.com/ip3/app.kodo.in.ico",
     "slug": "payouts-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 892,
@@ -16,6 +16,7 @@
     "timeMonth": 1084,
     "timeYear": 909,
     "dailyMinutesDown": {
+      "2026-04-08": 2,
       "2026-01-28": 16
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://api.kodo.in/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.kodo.in.ico",
     "slug": "payouts-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
@@ -36,6 +37,7 @@
     "timeMonth": 1146,
     "timeYear": 1471,
     "dailyMinutesDown": {
+      "2026-04-08": 0,
       "2026-02-25": 24,
       "2026-02-24": 24,
       "2026-02-05": 51,
