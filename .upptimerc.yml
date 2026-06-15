@@ -23,7 +23,10 @@ sites:
     url: https://api.kodo.com/identity/health
   - name: P2P form API
     url: https://api.kodo.com/form/health
- 
+  - name: Treasury API
+    url: https://api.kodo.com/north/ready
+  - name: Treasury UI
+    url: https://north.kodo.com/auth/login
 status-website:
   cname: upptime.kodo.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
