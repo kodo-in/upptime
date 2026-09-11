@@ -1,7 +1,7 @@
 url: https://app.kodo.com
-status: down
-code: 503
-responseTime: 315
-lastUpdated: 2026-09-11T19:18:49.605Z
+status: up
+code: 200
+responseTime: 1206
+lastUpdated: 2026-09-11T20:00:45.552Z
 startTime: 2025-02-27T05:48:17.745Z
 generator: Upptime <https://github.com/upptime/upptime>
