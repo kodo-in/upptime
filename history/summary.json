@@ -27,17 +27,17 @@
     "url": "https://api.kodo.in/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.kodo.in.ico",
     "slug": "payouts-api",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "96.99%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.87%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 1370,
-    "timeDay": 1066,
-    "timeWeek": 1112,
-    "timeMonth": 1125,
-    "timeYear": 1400,
+    "timeDay": 1056,
+    "timeWeek": 1103,
+    "timeMonth": 1122,
+    "timeYear": 1399,
     "dailyMinutesDown": {
       "2025-09-25": 60,
       "2025-09-29": 44,
@@ -52,7 +52,7 @@
       "2026-04-08": 28,
       "2026-04-11": 15,
       "2026-04-30": 33,
-      "2026-09-11": 43
+      "2026-09-11": 61
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://api.kodo.com/identity/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.kodo.com.ico",
     "slug": "p2-p-identity-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.03%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "95.76%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
-    "time": 862,
-    "timeDay": 1094,
-    "timeWeek": 965,
-    "timeMonth": 837,
-    "timeYear": 868,
+    "time": 861,
+    "timeDay": 964,
+    "timeWeek": 935,
+    "timeMonth": 833,
+    "timeYear": 867,
     "dailyMinutesDown": {
-      "2026-09-11": 43
+      "2026-09-11": 61
     }
   },
   {
@@ -102,9 +102,9 @@
     "slug": "p2-p-form-api",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.04%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "95.74%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 451,
     "timeDay": 706,
@@ -112,7 +112,7 @@
     "timeMonth": 689,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2026-09-11": 43
+      "2026-09-11": 61
     }
   },
   {
@@ -120,19 +120,19 @@
     "url": "https://api.kodo.com/north/ready",
     "icon": "https://icons.duckduckgo.com/ip3/api.kodo.com.ico",
     "slug": "treasury-api",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "96.06%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.96%",
-    "time": 634,
-    "timeDay": 747,
-    "timeWeek": 662,
-    "timeMonth": 677,
-    "timeYear": 634,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "94.78%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.94%",
+    "time": 630,
+    "timeDay": 593,
+    "timeWeek": 620,
+    "timeMonth": 665,
+    "timeYear": 630,
     "dailyMinutesDown": {
-      "2026-09-11": 57
+      "2026-09-11": 75
     }
   },
   {
