@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.kodo.in.ico",
     "slug": "payouts-ui",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 965,
-    "timeDay": 0,
-    "timeWeek": 1216,
+    "timeDay": 914,
+    "timeWeek": 1149,
     "timeMonth": 1063,
     "timeYear": 1010,
     "dailyMinutesDown": {
@@ -33,11 +33,11 @@
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
-    "time": 1371,
-    "timeDay": 0,
-    "timeWeek": 1140,
-    "timeMonth": 1127,
-    "timeYear": 1398,
+    "time": 1370,
+    "timeDay": 994,
+    "timeWeek": 1090,
+    "timeMonth": 1130,
+    "timeYear": 1397,
     "dailyMinutesDown": {
       "2025-09-25": 60,
       "2025-09-29": 44,
@@ -67,10 +67,10 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 855,
-    "timeDay": 0,
-    "timeWeek": 954,
-    "timeMonth": 850,
-    "timeYear": 863,
+    "timeDay": 643,
+    "timeWeek": 895,
+    "timeMonth": 848,
+    "timeYear": 862,
     "dailyMinutesDown": {
       "2026-09-11": 42
     }
@@ -87,10 +87,10 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 862,
-    "timeDay": 0,
-    "timeWeek": 970,
-    "timeMonth": 846,
-    "timeYear": 866,
+    "timeDay": 720,
+    "timeWeek": 912,
+    "timeMonth": 850,
+    "timeYear": 865,
     "dailyMinutesDown": {
       "2026-09-11": 61
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
-    "time": 455,
-    "timeDay": 0,
-    "timeWeek": 877,
+    "time": 456,
+    "timeDay": 629,
+    "timeWeek": 820,
     "timeMonth": 710,
-    "timeYear": 536,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2026-09-11": 71
     }
@@ -126,11 +126,11 @@
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
-    "time": 637,
-    "timeDay": 0,
-    "timeWeek": 723,
-    "timeMonth": 688,
-    "timeYear": 637,
+    "time": 633,
+    "timeDay": 237,
+    "timeWeek": 620,
+    "timeMonth": 676,
+    "timeYear": 633,
     "dailyMinutesDown": {
       "2026-09-11": 75
     }
@@ -146,11 +146,11 @@
     "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1056,
-    "timeDay": 0,
-    "timeWeek": 1185,
-    "timeMonth": 1069,
-    "timeYear": 1056,
+    "time": 1055,
+    "timeDay": 923,
+    "timeWeek": 1111,
+    "timeMonth": 1071,
+    "timeYear": 1055,
     "dailyMinutesDown": {
       "2026-09-11": 3
     }
